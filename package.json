@@ -1,0 +1,27 @@
+{
+  "name": "neolib-thoughtleader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreddieRidell/neolib-thoughtleader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreddieRidell/neolib-thoughtleader/issues"
+  },
+  "homepage": "https://github.com/FreddieRidell/neolib-thoughtleader#readme",
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "useTabs": true,
+    "trailingComma": "all"
+  }
+}
